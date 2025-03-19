@@ -1,2 +1,2 @@
-# SMTest
-Test Website
+# SMPortfolio 
+Shari's Portfolio Website
